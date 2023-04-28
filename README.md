@@ -10,6 +10,11 @@ Tutorials and Walkthrough Includes:
   - If/elif/else statements
   - Breaks and continues
 
+2. packages_overview_numpy_pandas_examples.ipynb
+- Overview of Packages, how python differs from R
+- NumPy array introduction
+- Example of using pandas with Titanic Data
+- Boolean Masking example with planet data
 
 Datasets Used:
-None as of now
+Titanic Dataset (https://raw.githubusercontent.com/adacert/titanic/main/train.csv)
